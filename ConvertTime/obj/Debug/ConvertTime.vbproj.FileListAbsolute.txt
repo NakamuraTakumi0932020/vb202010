@@ -1,0 +1,12 @@
+C:\Users\nakam\source\repos\ConvertTime\bin\Debug\ConvertTime.exe.config
+C:\Users\nakam\source\repos\ConvertTime\bin\Debug\ConvertTime.exe
+C:\Users\nakam\source\repos\ConvertTime\bin\Debug\ConvertTime.pdb
+C:\Users\nakam\source\repos\ConvertTime\bin\Debug\ConvertTime.xml
+C:\Users\nakam\source\repos\ConvertTime\obj\Debug\ConvertTime.vbprojAssemblyReference.cache
+C:\Users\nakam\source\repos\ConvertTime\obj\Debug\ConvertTime.frmConvertTime.resources
+C:\Users\nakam\source\repos\ConvertTime\obj\Debug\ConvertTime.Resources.resources
+C:\Users\nakam\source\repos\ConvertTime\obj\Debug\ConvertTime.vbproj.GenerateResource.cache
+C:\Users\nakam\source\repos\ConvertTime\obj\Debug\ConvertTime.vbproj.CoreCompileInputs.cache
+C:\Users\nakam\source\repos\ConvertTime\obj\Debug\ConvertTime.exe
+C:\Users\nakam\source\repos\ConvertTime\obj\Debug\ConvertTime.xml
+C:\Users\nakam\source\repos\ConvertTime\obj\Debug\ConvertTime.pdb

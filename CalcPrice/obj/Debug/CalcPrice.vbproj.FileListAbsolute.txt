@@ -1,0 +1,12 @@
+C:\Users\nakam\source\repos\CalcPrice\bin\Debug\CalcPrice.exe.config
+C:\Users\nakam\source\repos\CalcPrice\bin\Debug\CalcPrice.exe
+C:\Users\nakam\source\repos\CalcPrice\bin\Debug\CalcPrice.pdb
+C:\Users\nakam\source\repos\CalcPrice\bin\Debug\CalcPrice.xml
+C:\Users\nakam\source\repos\CalcPrice\obj\Debug\CalcPrice.vbprojAssemblyReference.cache
+C:\Users\nakam\source\repos\CalcPrice\obj\Debug\CalcPrice.frmCalcPrice.resources
+C:\Users\nakam\source\repos\CalcPrice\obj\Debug\CalcPrice.Resources.resources
+C:\Users\nakam\source\repos\CalcPrice\obj\Debug\CalcPrice.vbproj.GenerateResource.cache
+C:\Users\nakam\source\repos\CalcPrice\obj\Debug\CalcPrice.vbproj.CoreCompileInputs.cache
+C:\Users\nakam\source\repos\CalcPrice\obj\Debug\CalcPrice.exe
+C:\Users\nakam\source\repos\CalcPrice\obj\Debug\CalcPrice.xml
+C:\Users\nakam\source\repos\CalcPrice\obj\Debug\CalcPrice.pdb
