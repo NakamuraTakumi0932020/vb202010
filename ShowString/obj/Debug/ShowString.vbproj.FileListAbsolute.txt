@@ -1,0 +1,13 @@
+C:\Users\nakam\source\repos\ShowString\bin\Debug\ShowString.exe.config
+C:\Users\nakam\source\repos\ShowString\bin\Debug\ShowString.exe
+C:\Users\nakam\source\repos\ShowString\bin\Debug\ShowString.pdb
+C:\Users\nakam\source\repos\ShowString\bin\Debug\ShowString.xml
+C:\Users\nakam\source\repos\ShowString\obj\Debug\ShowString.Resources.resources
+C:\Users\nakam\source\repos\ShowString\obj\Debug\ShowString.vbproj.GenerateResource.cache
+C:\Users\nakam\source\repos\ShowString\obj\Debug\ShowString.vbproj.CoreCompileInputs.cache
+C:\Users\nakam\source\repos\ShowString\obj\Debug\ShowString.exe
+C:\Users\nakam\source\repos\ShowString\obj\Debug\ShowString.xml
+C:\Users\nakam\source\repos\ShowString\obj\Debug\ShowString.pdb
+C:\Users\nakam\source\repos\ShowString\obj\Debug\ShowString.Form1.resources
+C:\Users\nakam\source\repos\ShowString\obj\Debug\ShowString.Form2.resources
+C:\Users\nakam\source\repos\ShowString\obj\Debug\ShowString.vbprojAssemblyReference.cache
