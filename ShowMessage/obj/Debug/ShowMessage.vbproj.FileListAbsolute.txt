@@ -1,0 +1,12 @@
+C:\Users\nakam\source\repos\ShowMessage\bin\Debug\ShowMessage.exe.config
+C:\Users\nakam\source\repos\ShowMessage\bin\Debug\ShowMessage.exe
+C:\Users\nakam\source\repos\ShowMessage\bin\Debug\ShowMessage.pdb
+C:\Users\nakam\source\repos\ShowMessage\bin\Debug\ShowMessage.xml
+C:\Users\nakam\source\repos\ShowMessage\obj\Debug\ShowMessage.vbprojAssemblyReference.cache
+C:\Users\nakam\source\repos\ShowMessage\obj\Debug\ShowMessage.frmShowMessage.resources
+C:\Users\nakam\source\repos\ShowMessage\obj\Debug\ShowMessage.Resources.resources
+C:\Users\nakam\source\repos\ShowMessage\obj\Debug\ShowMessage.vbproj.GenerateResource.cache
+C:\Users\nakam\source\repos\ShowMessage\obj\Debug\ShowMessage.vbproj.CoreCompileInputs.cache
+C:\Users\nakam\source\repos\ShowMessage\obj\Debug\ShowMessage.exe
+C:\Users\nakam\source\repos\ShowMessage\obj\Debug\ShowMessage.xml
+C:\Users\nakam\source\repos\ShowMessage\obj\Debug\ShowMessage.pdb
