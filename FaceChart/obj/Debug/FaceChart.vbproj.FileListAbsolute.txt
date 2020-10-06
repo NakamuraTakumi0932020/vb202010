@@ -1,0 +1,12 @@
+C:\Users\nakam\source\repos\vb202010.git\FaceChart\bin\Debug\FaceChart.exe.config
+C:\Users\nakam\source\repos\vb202010.git\FaceChart\bin\Debug\FaceChart.exe
+C:\Users\nakam\source\repos\vb202010.git\FaceChart\bin\Debug\FaceChart.pdb
+C:\Users\nakam\source\repos\vb202010.git\FaceChart\bin\Debug\FaceChart.xml
+C:\Users\nakam\source\repos\vb202010.git\FaceChart\obj\Debug\FaceChart.vbprojAssemblyReference.cache
+C:\Users\nakam\source\repos\vb202010.git\FaceChart\obj\Debug\FaceChart.frmFaceChart.resources
+C:\Users\nakam\source\repos\vb202010.git\FaceChart\obj\Debug\FaceChart.Resources.resources
+C:\Users\nakam\source\repos\vb202010.git\FaceChart\obj\Debug\FaceChart.vbproj.GenerateResource.cache
+C:\Users\nakam\source\repos\vb202010.git\FaceChart\obj\Debug\FaceChart.vbproj.CoreCompileInputs.cache
+C:\Users\nakam\source\repos\vb202010.git\FaceChart\obj\Debug\FaceChart.exe
+C:\Users\nakam\source\repos\vb202010.git\FaceChart\obj\Debug\FaceChart.xml
+C:\Users\nakam\source\repos\vb202010.git\FaceChart\obj\Debug\FaceChart.pdb
